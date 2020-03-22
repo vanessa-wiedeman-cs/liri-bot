@@ -4,7 +4,7 @@
 
 Command one - takes in a band and outputs concerts
 
-![bandsintown](https://media.discordapp.net/attachments/538118399822135296/653086248147353622/1.PNG)
+![bandsintown](https://media.discordapp.net/attachments/538118399822135296/653086248147353622/1.PNG) 
 
 Command two - takes in a song and gives spotify data  
 
