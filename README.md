@@ -18,7 +18,7 @@ If no movie is entered it defaults to this movie.
 
 Command 4 - reads text file and does command via text file
 
-![random](https://media.discordapp.net/attachments/538118399822135296/653086254988001339/4.PNG)
+![random](https://media.discordapp.net/attachments/538118399822135296/653086254988001339/4.PNG) 
 
 
 
