@@ -16,7 +16,7 @@ Command three - takes in a movie and displays movie data
 If no movie is entered it defaults to this movie.
 ![Mr.Nobody](https://media.discordapp.net/attachments/538118399822135296/653086257148329996/nobody.PNG)  
 
-Command 4 - reads text file and does command via text file
+Command 4 - reads text file and does command via text file 
 
 ![random](https://media.discordapp.net/attachments/538118399822135296/653086254988001339/4.PNG) 
 
