@@ -8,7 +8,7 @@ Command one - takes in a band and outputs concerts
 
 Command two - takes in a song and gives spotify data
 
-![Spotify](https://media.discordapp.net/attachments/538118399822135296/653086249263038520/2.PNG)
+![Spotify](https://media.discordapp.net/attachments/538118399822135296/653086249263038520/2.PNG) 
 
 Command three - takes in a movie and displays movie data
 
